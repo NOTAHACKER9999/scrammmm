@@ -1,0 +1,12 @@
+{
+  "name": "vercel-scramjet-proxy",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "@petezah-games/scramjet": "^2.0.3"
+  }
+}
