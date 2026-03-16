@@ -1,12 +1,9 @@
 {
-  "name": "vercel-scramjet-proxy",
+  "name": "simple-vercel-super-proxy",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
-    "dev": "vercel dev",
-    "start": "vercel dev"
-  },
+  "type": "module",
   "dependencies": {
-    "@petezah-games/scramjet": "^2.0.3"
+    "@tomphttp/bare-server-node": "^2.0.5"
   }
 }
